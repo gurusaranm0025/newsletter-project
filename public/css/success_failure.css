@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    font-family: sans-serif;
+    margin: 0;
+    padding:0;
+
+}
+
+h1{
+    color:coral;
+    font-size: 3.5rem;
+    font-weight: 400;
+    text-align: left;
+}
+
+.top {
+    background-color:darkslategray;
+    margin: 0;
+    padding-left: 15px;
+}
+
+p{
+    text-align: left;
+    font-size: 1.3rem;
+    font-weight: 300;
+    color:coral;
+}
